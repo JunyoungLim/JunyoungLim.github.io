@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b762f58.css",
-    "main.js": "/static/js/main.877777fb.js",
+    "main.css": "/static/css/main.2d302ac8.css",
+    "main.js": "/static/js/main.ba274c35.js",
     "static/media/rubiks_cube_yellow.png": "/static/media/rubiks_cube_yellow.87b9273bc2f44c625385.png",
     "static/media/rubiks_cube_cyan.png": "/static/media/rubiks_cube_cyan.8f85e89b0868c0c42314.png",
     "index.html": "/index.html",
-    "main.8b762f58.css.map": "/static/css/main.8b762f58.css.map",
-    "main.877777fb.js.map": "/static/js/main.877777fb.js.map"
+    "main.2d302ac8.css.map": "/static/css/main.2d302ac8.css.map",
+    "main.ba274c35.js.map": "/static/js/main.ba274c35.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b762f58.css",
-    "static/js/main.877777fb.js"
+    "static/css/main.2d302ac8.css",
+    "static/js/main.ba274c35.js"
   ]
 }
